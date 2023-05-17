@@ -1,0 +1,16 @@
+{
+  "name": "beingnikhilesh/whatsapp4web",
+  "description": "Library to Communicate with Whatsapp Unofficial API",
+  "keywords": [
+        "php", "whatsapp", "codeigniter", "API", "Whatsapp API"
+    ],
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "beingnikhilesh\\whatsapp4web\\": "src/"
+    }
+  },
+  "require": {},
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
