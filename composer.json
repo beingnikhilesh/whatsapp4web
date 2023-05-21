@@ -10,7 +10,10 @@
       "beingnikhilesh\\whatsapp4web\\": "src/"
     }
   },
-  "require": {},
+  "require": {
+	  "beingnikhilesh/error" : "*",
+	  "guzzlehttp/guzzle" : "*"
+  },
   "minimum-stability": "dev",
   "prefer-stable": true
 }
