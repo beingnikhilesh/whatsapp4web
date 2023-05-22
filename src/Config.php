@@ -50,8 +50,8 @@ class Config
          */
         'platforms' => [
             'w2r' => [
-                'accessToken' => 'a559dfdd27c92c7cfe8b621924c9d408', # Optional - Default User to Use for API Access, Leave NULL for Default Values
-                'instanceID' => '6461666F75759',
+                'accessToken' => '', # Optional - Default User to Use for API Access, Leave NULL for Default Values
+                'instanceID' => '',
                 'baseURL' => 'https://whatsapp.w2r.in/'
             ], 'gupshup' => []
         ]
