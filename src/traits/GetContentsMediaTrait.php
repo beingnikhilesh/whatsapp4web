@@ -4,6 +4,8 @@ namespace beingnikhilesh\whatsapp4web\traits;
 
 trait GetContentsMediaTrait
 {
+    private $messageType = 'media';
+
     /** Function to send the Contents for the Media Type */
     protected function _getContents()
     {
